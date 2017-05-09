@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-cp-validations',
+    modulePrefix: 'ember-cp-validations-test',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
